@@ -1,10 +1,43 @@
 body{
     background-color: black;
-    color: white;
+    color:white;
 }
 .container{
-    border: 2px solid red;
+    /* border: 2px solid ; */
     width: 80%;
     margin: auto;
     background-color:rgb(54,52,52);
+    border-radius: 20px;
+}
+.heading{
+    font-family:'Lobster',cursive;
+}
+#title{
+    font-size: 90px;
+    text-align: center;
+}
+#span1{
+    color: red;
+}
+#img-div{
+    /* border: 2px solid ; */
+    text-align: center;
+}
+#image{
+    width: 400px;
+}
+#info{
+    /* border: 1px solid ; */
+    width: 80%;
+    margin: 20px auto;
+    text-align: justify;
+}
+#marvel{
+    /* border: 1px solid red; */
+    color: red;
+    margin-left: 10%;
+}
+u1{
+    width: 80%;
+    margin: auto;
 }
